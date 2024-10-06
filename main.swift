@@ -1,9 +1,3 @@
-//
-//  main.swift
-//  StringReverse
-//
-//  Created by Anandhakrishnan TR
-//
 
 import Foundation
 
